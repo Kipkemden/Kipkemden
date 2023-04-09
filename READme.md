@@ -4,3 +4,9 @@
 :seedling: I’m currently learning React js  
 :question: Ask me about Javascript, React  
 :blush: Life does not stop 
+
+
+
+![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kipkemden&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIpkemden)](https://github.com/anuraghazra/github-readme-stats)
+
