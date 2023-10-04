@@ -3,7 +3,7 @@
 :hammer: I’m looking for help with any apprenticeship opportunity in line with my profile      
 :seedling: I’m currently learning  Android, Web3   
 :question: Ask me about Ruby, Javascript, React Js  
-:blush: Life Does Not Stop  
+:mailbox_with_email: How to reach me d.cheru@gmail.com 
 
 
 
